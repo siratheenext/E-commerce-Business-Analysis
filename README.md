@@ -1,6 +1,6 @@
 # E-commerce Business Analysis: Dr.PONG Website Enhancement
 
-This repository contains the business analysis and strategic proposal for enhancing the Dr.PONG e-commerce platform. [cite_start]This was submitted as a group project for the **ITDS294: Fundamentals of Electronic Commerce System** course at the Faculty of ICT, Mahidol University[cite: 1, 24, 25, 26, 29].
+This repository contains the business analysis and strategic proposal for enhancing the Dr.PONG e-commerce platform. This was submitted as a group project for the **ITDS294: Fundamentals of Electronic Commerce System** course at the Faculty of ICT, Mahidol University[cite: 1, 24, 25, 26, 29].
 
 The core of this project is a business plan that analyzes the opportunity for Dr.PONG to transition from a marketplace-dependent model to a robust Direct-to-Consumer (D2C) channel by upgrading its official website.
 
